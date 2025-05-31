@@ -1,6 +1,11 @@
 # Engeto_projekt_SQL_ZuSu
 Projekt Engeto Akademie - SQL projekt
 
+author: Zuzana Suchankova
+email: suchankovazuzana@email.cz
+discord: zuzkita
+
+
 Zadání projektu
 
 Úvod do projektu 
